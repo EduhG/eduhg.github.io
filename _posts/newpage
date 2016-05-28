@@ -1,3 +1,9 @@
+---
+layout: post
+title: Hello World Blog!
+---
+
+
 CAUTION
 
 You should NOT write to the failed device, as it can worsen a hardware failure, and overwrite existant data in case of lost files .
