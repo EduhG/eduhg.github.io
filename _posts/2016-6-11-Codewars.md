@@ -5,7 +5,7 @@ title: Codewars!
 
 Codewars is a collective effort by its users. They are creators - authoring kata to teach various techniques, solving kata with solutions that enlighten others, and commenting with constructive feedback.
 
-The most interesting thing about Codewars? Achieve mastery through challenge by Improve your skills by training with others on real code challenges
+The most interesting thing about Codewars? **Achieve mastery through challenge** by Improve your skills by training with others on real code challenges
 
 You sharpen your skills by challenge yourself on kata, created by the community to strengthen different skills. Master your current language of choice, or expand your understanding of a new one.
 
