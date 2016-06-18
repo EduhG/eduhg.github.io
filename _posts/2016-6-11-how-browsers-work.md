@@ -3,7 +3,9 @@ layout: post
 title: How Browsers Work!
 ---
 
-##Introduction
+##Introduction<br>
+
+
 **What is the meaning of browser?**<br>
 
 By the time you are reading this article, certainly you are already using a web browser which is presenting this article content in a rich text/graphical format on your computer or phone screen.
