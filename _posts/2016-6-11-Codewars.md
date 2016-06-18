@@ -3,6 +3,8 @@ layout: post
 title: Hello Codewars!
 ---
 
+What is Codewars?
+
 Codewars is a collective effort by its users. They are creators - authoring kata to teach various techniques, solving kata with solutions that enlighten others, and commenting with constructive feedback.
 
 Codewars covers a wide range of programming languages; from Java, JavaScript, Python to CoffeeScript. Some kata challenges cover most of the languages and as a user you can solve the challenges using a language of your choice.
