@@ -3,8 +3,7 @@ layout: post
 title: How Browsers Work!
 ---
 
-##Introduction<br>
-
+Introduction<br>
 
 **What is the meaning of browser?**<br>
 
