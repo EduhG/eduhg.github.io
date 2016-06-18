@@ -1,9 +1,5 @@
 
----
-layout: post
-title: How Browsers Work!
----
-
+How Browsers Work!
 
 ##Introduction
 **What is the meaning of browser?**<br>
