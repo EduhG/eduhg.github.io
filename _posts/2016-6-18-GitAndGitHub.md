@@ -1,7 +1,6 @@
-
 ---
 layout: post
-title: Hello Codewars!
+title: Git and GitHub!
 ---
 
 Want to use Git and GitHub?
