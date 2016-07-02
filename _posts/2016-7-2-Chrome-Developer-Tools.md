@@ -28,7 +28,7 @@ The DevTools window contains different functions as a developer you will need. T
 7. Audits
 8. Console
 
-You can use the ** Ctrl+[ ** and ** Ctrl+] ** shortcuts to move between panels.
+You can use the **Ctrl+[** and **Ctrl+]** shortcuts to move between panels.
 
 ### DevTools enable you to:
 
