@@ -13,7 +13,7 @@ A web browser or frequently called as browser is an application software that is
 
 In this tutorial we will see what happens when you type google.com in the address bar until you see the Google page on the browser screen.
 
-##Structure of Browsers
+## Structure of Browsers
 The browser’s main functionality is to fetch the files from the server and to display them on the screen. It basically displays html files containing images, PDF, videos, flashes, etc in an ordered layout. A browser is a group of structured codes that performs plenty of tasks to display a webpage on the screen. These codes are separated in to different components according to their tasks performed. The structure of a browser is shown in the below image.
 ![alt text](http://www.engineersgarage.com/sites/default/files/imagecache/Original/wysiwyg_imageupload/28714/Architecture-of-Web-Browser.gif "Structure of Browsers")
 
@@ -32,7 +32,7 @@ This contains the main components of a browser. They Include.
 6. **JavaScript Interpreter**<br>Used to parse and execute JavaScript code.
 7. **Data storage**<br>This is a persistence layer. The browser may need to save all sorts of data locally, such as cookies. Browsers also support storage mechanisms such as localStorage, IndexedDB, WebSQL and FileSystem.
 
-##Putting it All Together
+## Putting it All Together
 As seen a browser has a UI, when you navigate to a URL in the address bar you are making a “request” for the content at that URL.
 
 That URL you typed into the address bar maps to an IP address. This is called a DNS lookup. DNS stands for “Domain Name System” and it maps numeric computer addresses to human readable names. All computers have an IP address. You can find out your personal computer’s IP address by typing “ifconfig” into your terminal window and looking for the number that is displayed in dot decimal format, such as 000.000.000.000. (Note that 127.0.0.1 is used in your computer internally to refer to itself).
@@ -47,7 +47,7 @@ The browser then parses style data (CSS or inline styles) and together with the 
 
 As the browser is rendering the HTML it will find tags (like our link tag and our img tag) that require files from other URLs. The browser will send a request to the web server to get each of these files.
 
-##References
+## References
 1. https://en.wikipedia.org/wiki/Web_browser
 2. http://www.html5rocks.com/en/tutorials/internals/howbrowserswork/
 3. https://dzone.com/articles/how-browsers-work-behind
