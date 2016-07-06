@@ -10,6 +10,8 @@ The reason to use getter and setter methods rather than just making the member v
 
 An Example implementing the getter and setter methods is shown below:
 
+```java
+
 package moringaschool;
 
 /**
@@ -72,9 +74,11 @@ public class Student {
         this.fees_balance = fees_balance;
     }  
 }
-
+```
 
 To access the varibles in class Student. We instantiate the class and call the indivivual get and set methods as needed. For Example:
+
+```java
 
 package moringaschool;
 
@@ -112,4 +116,5 @@ public class Register {
     
 }
 
+```
 
