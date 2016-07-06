@@ -1,6 +1,6 @@
 ### Getter and Setter Methods in Java
 
-*** Introduction ***
+Introduction
 
 Getters and setters allow control over the values passed to a class. They provide a mechanism for encapsulation.
 
