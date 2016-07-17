@@ -1,4 +1,4 @@
-### Algorithm Complexity
+# Algorithm Complexity
 
 Algorithmic complexity is concerned about how fast or slow particular algorithm performs. We define complexity as a numerical function T(n) - time versus the input size n. We want to define time taken by an algorithm without depending on the implementation details.
 
@@ -7,3 +7,24 @@ But you agree that T(n) does depend on the implementation! A given algorithm wil
 Let us consider two classical examples: addition of two integers. We will add two integers digit by digit (or bit by bit), and this will define a "step" in our computational model. Therefore, we say that addition of two n-bit integers takes n steps. Consequently, the total computational time is T(n) = c * n, where c is time taken by addition of two bits. On different computers, additon of two bits might take different time, say c1 and c2, thus the additon of two n-bit integers takes T(n) = c1 * n and T(n) = c2* n respectively. This shows that different machines result in different slopes, but time T(n) grows linearly as input size increases.
 
 The process of abstracting away details and determining the rate of resource usage in terms of the input size is one of the fundamental ideas in computer science.
+
+
+## Big Oh Notation
+
+Big O notation is used in Computer Science to describe the performance or complexity of an algorithm. Big O specifically describes the worst-case scenario, and can be used to describe the execution time required or the space used (e.g. in memory or on disk) by an algorithm.
+
+### O(1)
+
+O(1) describes an algorithm that will always execute in the same time (or space) regardless of the size of the input data set.
+
+### O(N)
+
+O(N) describes an algorithm whose performance will grow linearly and in direct proportion to the size of the input data set.
+
+### O(N2)
+
+O(N2) represents an algorithm whose performance is directly proportional to the square of the size of the input data set.
+
+### O(2N)
+
+O(2N) denotes an algorithm whose growth doubles with each additon to the input data set.
